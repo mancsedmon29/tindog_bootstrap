@@ -1,1 +1,1 @@
-# tindog_bootstrap
+# The sample website made by Bootstrap: Tindog
